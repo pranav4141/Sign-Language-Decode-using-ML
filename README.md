@@ -80,7 +80,7 @@ Recognized Hand Sign
 ```
 ## 📸 Project Demo
 
-![Sign Language Detection Demo](HandSign.png)
+![Sign Language Detection Demo](HandSign.png.png)
 
 ---
 
