@@ -16,7 +16,7 @@ A computer vision and deep learning project that recognizes hand signs using a t
 - [Project Demo](#-project-demo)
 - [Technologies Used](#%EF%B8%8F-technologies-used)
 - [Project Structure](#-project-structure)
-- [Installations](#installations)
+- [Installations](#%EF%B8%8F-installation)
 - [Future Improvements](#future-improvements)
 - [Contributions](#contributions)
 - [Author](#author)
