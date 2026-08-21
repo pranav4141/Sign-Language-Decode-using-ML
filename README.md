@@ -59,13 +59,13 @@ Real-Time-Sign-Language-Recognition-Using-Machine-Learning/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/pranav4141/Sign-Language-Decode-using-ML.git
+git clone https://github.com/Hellopapri/Real-Time-Sign-Language-Recognition-Using-Machine-Learning.git
 ```
 
 ### Navigate to the Project Directory
 
 ```bash
-cd Sign-Language-Decode-using-ML
+cd Real-Time-Sign-Language-Recognition-Using-Machine-Learning
 ```
 
 ### Install Required Dependencies
@@ -110,9 +110,13 @@ Feel free to fork this repository and submit pull requests.
 
 ## 👩‍💻 Author
 
-**Pranav Sanyal**
+**Papri Majumdar**
 Data Analyst & AI Engineer
 
-GitHub: https://github.com/pranav4141
+GitHub: https://github.com/Hellopapri
 
 ---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
