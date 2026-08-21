@@ -6,11 +6,6 @@
 ![Keras](https://img.shields.io/badge/Keras-Neural%20Network-red)
 
 A computer vision and deep learning project that recognizes hand signs using a trained TensorFlow/Keras image classification model. The project uses OpenCV for image and camera processing and a pre-trained Keras model for recognizing different hand-sign classes.
-
-## Author
-
-- [@pranav4141](https://github.com/pranav4141)
-
 ---
 
 ## Table of Contents
@@ -25,9 +20,6 @@ A computer vision and deep learning project that recognizes hand signs using a t
 - [Future Improvements](#future-improvements)
 - [Contributions](#contributions)
 - [Author](#author)
-- [Testing](#testing)
-- [Troubleshooting](#troubleshooting)
-- [Future Improvements](#future-improvements)
 
 ---
 
