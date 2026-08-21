@@ -18,12 +18,13 @@ A computer vision and deep learning project that recognizes hand signs using a t
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [How It Works](#how-it-works)
+- [Project Demo](#project-Demo)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
-- [Requirements](#requirements)
-- [Run Locally](#run-locally)
-- [Model Files](#model-files)
-- [Data Collection](#data-collection)
+- [Installations](#installations)
+- [Future Improvements](#future-improvements)
+- [Contributions](#contributions)
+- [Author](#author)
 - [Testing](#testing)
 - [Troubleshooting](#troubleshooting)
 - [Future Improvements](#future-improvements)
@@ -103,7 +104,7 @@ Recognized Hand Sign
 Real-Time-Sign-Language-Recognition-Using-Machine-Learning/
 │
 ├── static/
-├── HandSign.png
+├── HandSign.png.png
 ├── README.md
 ├── app.py
 ├── dataCollection.py
@@ -129,10 +130,28 @@ git clone https://github.com/Hellopapri/Real-Time-Sign-Language-Recognition-Usin
 cd Real-Time-Sign-Language-Recognition-Using-Machine-Learning
 ```
 
-### Install Required Dependencies
+### Create Virtual Environment
 
 ```bash
-pip install -r requirements.txt
+py -3.11 -m venv venv
+```
+
+### Activate The Environment
+
+```bash
+venv\Scripts\Activate.ps1
+```
+
+### Upgrade pip
+
+```bash
+python -m pip install --upgrade pip
+```
+
+### Install The Required Libraries
+
+```bash
+python -m pip install tensorflow opencv-python numpy pillow
 ```
 
 ### Run the Application
@@ -140,15 +159,6 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-
----
-
-## 💡 How It Works
-
-1. The webcam captures live hand gestures
-2. Hand landmarks are detected using computer vision
-3. The trained machine learning model processes the gesture
-4. The predicted sign is displayed with confidence score in real time
 
 ---
 
@@ -171,13 +181,9 @@ Feel free to fork this repository and submit pull requests.
 
 ## 👩‍💻 Author
 
-**Papri Majumdar**
+**Pranav Sanyal**
 Data Analyst & AI Engineer
 
-GitHub: https://github.com/Hellopapri
+GitHub: https://github.com/pranav4141
 
 ---
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
